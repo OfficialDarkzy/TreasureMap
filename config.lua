@@ -1,6 +1,5 @@
-config = {
-    enableDevMode = true -- Change this from (TRUE OR FALSE) to always show images on the map (Help ya to find locations :D XD :] :@) kkkkkkkkkkk :DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD skrt skrt gang gang huh-gey
-} 
+config = {}
+  --  REMOVED DEV MODE VAR LEL Change this from (TRUE OR FALSE) to always show images on the map (Help ya to find locations :D XD :] :@) kkkkkkkkkkk :DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD skrt skrt gang gang huh-gey} 
 
 
 drawMarkerLocations = {
